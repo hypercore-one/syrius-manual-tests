@@ -31,7 +31,7 @@ Counter deposit sender must be counterparty,The counter deposit's sender must be
 Counter deposit uses same hash type,The counter deposit must use the same hash type as the initial deposit.,PRIO1,
 Proxy unlocked deposit,The swap item of a proxy unlocked deposit is marked as completed.,PRIO1,
 Swap expiration,A swap is marked as expired 10 minutes before the counter deposit expires.,PRIO1,
-Swap state maintained after restart of Syrius,A swap's state is maintained is Syrius is closed and reopened.,PRIO1,
+Swap state maintained after restart of Syrius,A swap's state is maintained if Syrius is closed and reopened.,PRIO1,
 ,,,
 Deleting swap items,,,
 Deleting active swap,An active swap cannot be deleted from the swaps list.,PRIO1,
